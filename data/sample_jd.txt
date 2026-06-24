@@ -1,0 +1,25 @@
+Job Title: Senior Backend Engineer (Python)
+
+About the role:
+We are looking for a Senior Backend Engineer to design and build scalable APIs and data
+pipelines for our recruitment-tech platform. You will work closely with the ML team to
+ship production services that power candidate matching at scale.
+
+Must-have requirements:
+- 4+ years of professional software engineering experience
+- Strong proficiency in Python and at least one web framework (FastAPI, Django, or Flask)
+- Hands-on experience with relational databases (PostgreSQL/MySQL) and SQL optimization
+- Experience designing and consuming REST APIs
+- Experience with cloud platforms (AWS or GCP)
+- Bachelor's degree in Computer Science, Engineering, or related field
+
+Nice-to-have:
+- Experience with vector databases or semantic search (FAISS, Pinecone, Weaviate)
+- Familiarity with Docker and Kubernetes
+- Experience with asynchronous task queues (Celery, RQ)
+- Prior experience in HR-tech, fintech, or other data-heavy domains
+- Contributions to open-source projects
+
+Seniority: Senior (4-8 years)
+Location: Remote (India)
+Notice period preference: Immediate to 30 days
